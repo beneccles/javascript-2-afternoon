@@ -42,12 +42,16 @@ let favoriteThings = {
   and then another key named 'brand' with the value being your favorite brand.
 */
 
-//Code here
+favoriteThings.car = "Mazda6";
+favoriteThings.brand = "Mazda";
 
 /*
   Now use bracket or dot notation to change the value of the food key in your favoriteThings object to be 'Chicken Nuggets'
   and change the value of the book key in your favoriteThings object to be 'Harry Potter'.
 */
+
+favoriteThings.food = "Chicken Nuggets"; //Just because its in code, doesn't make this true ;P
+favoriteThings.book = "Harry Potter"; // Nope, No, Noooope. This is my least favorite book.
 
 //Code here
 
